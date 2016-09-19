@@ -45,7 +45,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Athens, Greece#3481 Melrose Place
+  - line: Athens, Greece #3481 Melrose Place
   - line: #Beverly Hills, CA 90210
 
 # Credits content
